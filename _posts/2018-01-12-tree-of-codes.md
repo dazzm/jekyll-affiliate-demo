@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tree of Codes
+image: assets/uploads/tumblr_812272d66c46e33436e7e08ea9744e62_fb45b1a8_1280.jpg
 date: 2020-02-25T09:44:05.001Z
 ---
 This is edited using netlify cms.
