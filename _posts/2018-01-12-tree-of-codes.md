@@ -7,7 +7,7 @@ This is edited using netlify cms.
 
 Testing testing testing
 
-testing, testing, testing
+testing, **testing**, testing
 
 ![Pink succulents](/assets/uploads/tumblr_812272d66c46e33436e7e08ea9744e62_fb45b1a8_1280.jpg "Pink Succulents")
 
